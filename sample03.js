@@ -1,3 +1,4 @@
+// タイトル コールバック関数
 // 処理の前後にログ出力
 function showLog(func) {
     console.log("処理を開始します");

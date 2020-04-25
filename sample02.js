@@ -1,3 +1,4 @@
+// タイトル アロー関数について
 // こう書いてもいいし。。。
 const sampleFunc1 = function () {console.log("sampleFunc1です")};
 sampleFunc1(); 
